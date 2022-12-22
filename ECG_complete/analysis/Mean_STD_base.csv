@@ -1,0 +1,21 @@
+M,STD
+"index      1.132435e+12
+bpm        8.837621e+01
+sdnn       5.525939e+01
+sdsd       1.874567e+01
+rmssd      3.382653e+01
+vlf        1.789693e+02
+lf         3.791126e+02
+hf         5.672873e+02
+lf/hf      1.139660e+00
+p_total    1.125369e+03
+dtype: float64","bpm          6.800784
+sdnn        36.512114
+sdsd        18.417850
+rmssd       20.043698
+vlf        212.908397
+lf         343.681145
+hf         719.185188
+lf/hf        0.918818
+p_total    976.661946
+dtype: float64"
